@@ -1,2 +1,3 @@
 # smonishkumar-demo
-This is my first Git repository.
+This is my first Git Repository.
+Author - S Monish Kumar
